@@ -1,0 +1,12 @@
+C:\Users\elitniy\documents\visual studio 2017\Projects\Cinema_Form_App\Cinema_Form_App\bin\Debug\Cinema_Form_App.exe.config
+C:\Users\elitniy\documents\visual studio 2017\Projects\Cinema_Form_App\Cinema_Form_App\bin\Debug\Cinema_Form_App.exe
+C:\Users\elitniy\documents\visual studio 2017\Projects\Cinema_Form_App\Cinema_Form_App\bin\Debug\Cinema_Form_App.pdb
+C:\Users\elitniy\documents\visual studio 2017\Projects\Cinema_Form_App\Cinema_Form_App\obj\Debug\Cinema_Form_App.csprojResolveAssemblyReference.cache
+C:\Users\elitniy\documents\visual studio 2017\Projects\Cinema_Form_App\Cinema_Form_App\obj\Debug\Cinema_Form_App.CINEMA.resources
+C:\Users\elitniy\documents\visual studio 2017\Projects\Cinema_Form_App\Cinema_Form_App\obj\Debug\Cinema_Form_App.Hall_1.resources
+C:\Users\elitniy\documents\visual studio 2017\Projects\Cinema_Form_App\Cinema_Form_App\obj\Debug\Cinema_Form_App.Properties.Resources.resources
+C:\Users\elitniy\documents\visual studio 2017\Projects\Cinema_Form_App\Cinema_Form_App\obj\Debug\Cinema_Form_App.csproj.GenerateResource.Cache
+C:\Users\elitniy\documents\visual studio 2017\Projects\Cinema_Form_App\Cinema_Form_App\obj\Debug\Cinema_Form_App.exe
+C:\Users\elitniy\documents\visual studio 2017\Projects\Cinema_Form_App\Cinema_Form_App\obj\Debug\Cinema_Form_App.pdb
+C:\Users\elitniy\documents\visual studio 2017\Projects\Cinema_Form_App\Cinema_Form_App\obj\Debug\Cinema_Form_App.Hall_2.resources
+C:\Users\elitniy\documents\visual studio 2017\Projects\Cinema_Form_App\Cinema_Form_App\obj\Debug\Cinema_Form_App.Hall_3.resources

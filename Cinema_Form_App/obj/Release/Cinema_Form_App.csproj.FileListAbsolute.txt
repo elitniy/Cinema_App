@@ -1,0 +1,12 @@
+D:\code academy\c#\Cinema_Form_App\Cinema_Form_App\bin\Release\Cinema_Form_App.exe.config
+D:\code academy\c#\Cinema_Form_App\Cinema_Form_App\bin\Release\Cinema_Form_App.exe
+D:\code academy\c#\Cinema_Form_App\Cinema_Form_App\bin\Release\Cinema_Form_App.pdb
+D:\code academy\c#\Cinema_Form_App\Cinema_Form_App\obj\Release\Cinema_Form_App.csprojResolveAssemblyReference.cache
+D:\code academy\c#\Cinema_Form_App\Cinema_Form_App\obj\Release\Cinema_Form_App.CINEMA.resources
+D:\code academy\c#\Cinema_Form_App\Cinema_Form_App\obj\Release\Cinema_Form_App.Hall_1.resources
+D:\code academy\c#\Cinema_Form_App\Cinema_Form_App\obj\Release\Cinema_Form_App.Hall_2.resources
+D:\code academy\c#\Cinema_Form_App\Cinema_Form_App\obj\Release\Cinema_Form_App.Hall_3.resources
+D:\code academy\c#\Cinema_Form_App\Cinema_Form_App\obj\Release\Cinema_Form_App.Properties.Resources.resources
+D:\code academy\c#\Cinema_Form_App\Cinema_Form_App\obj\Release\Cinema_Form_App.csproj.GenerateResource.Cache
+D:\code academy\c#\Cinema_Form_App\Cinema_Form_App\obj\Release\Cinema_Form_App.exe
+D:\code academy\c#\Cinema_Form_App\Cinema_Form_App\obj\Release\Cinema_Form_App.pdb
